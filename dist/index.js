@@ -18394,7 +18394,7 @@ exports.paginateRest = paginateRest;
 /***/ (function(__unusedmodule, __unusedexports, __webpack_require__) {
 
 const core = __webpack_require__(307);
-const githun = __webpack_require__(405);
+const github = __webpack_require__(405);
 
 try {
     // `who-to-greet` input defined in action metadata file
